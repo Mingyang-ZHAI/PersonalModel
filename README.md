@@ -39,7 +39,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/PersonalizationModel.git
+   git clone https://github.com/Mingyang-ZHAI/PersonalModel.git
    cd PersonalizationModel
    ```
 
