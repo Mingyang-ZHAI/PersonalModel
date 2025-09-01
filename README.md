@@ -173,18 +173,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Open WebUI](https://github.com/open-webui/open-webui) - Beautiful web interface
 - [Docker](https://www.docker.com/) - Containerization platform
 
-## 📞 Support
-
-- 📧 **Email**: your-email@example.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/PersonalizationModel/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/PersonalizationModel/discussions)
-
----
-
-<div align="center">
-
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ for the AI community
-
-</div>
