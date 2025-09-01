@@ -1,4 +1,4 @@
-# 🤖 Personalized LLM Assistant
+# Personalized LLM Assistant
 
 [![Docker](https://img.shields.io/badge/Docker-Required-blue?logo=docker)](https://www.docker.com/)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-green)](https://www.microsoft.com/)
