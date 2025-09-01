@@ -1,0 +1,156 @@
+# Docker related
+.dockerignore
+docker-compose.override.yml
+docker-compose.*.yml
+!docker-compose.yml
+
+# Docker volumes and container data
+ollama-data/
+webui-data/
+models/
+*.tar
+*.tar.gz
+
+# Python related
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+logs/
+log/
+
+# Temporary files
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# Environment variable files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Keys and sensitive information
+*.key
+*.pem
+*.p12
+*.pfx
+secrets/
+secrets.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Cache directories
+.cache/
+cache/
+
+# History and session files
+.history/
+.claude/
+*.session
+
+# Model files (usually large, should not be committed to git)
+*.bin
+*.gguf
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+
+# Downloaded model directories
+models/
+downloads/
+
+# User uploaded files
+uploads/
+user_files/
+
+# Test coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# Others
+*.pid
+*.seed
+*.pid.lock
+
+.claude/
+question.md
+preference.md
